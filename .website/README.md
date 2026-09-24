@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - narrative
 post: https://vertfromage.github.io./update/2020/09/25/Robot-Mission-404-JS13KGames-2020.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
